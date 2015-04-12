@@ -1,0 +1,16 @@
+========================JAVA MAILER ZAM    =======================
+
+
++-----------------------------+
+|  Progarma creado por zam :  |
+|  zamuel01@gmail.com	      |
+|  inf-121-lab.blogspot.com   |
++-----------------------------+
+
+
+Para que funcione correctamente tiene que estar junto a la carpeta lib
+entendido ok:-)
+
+Licencia  GNU 
+
+ 
